@@ -1,0 +1,28 @@
+
+/*THESE RULES ONLY APPLY WHEN THE LAYOUT IS PRINTED*/
+
+body {  }
+
+header {  }
+	#logo {  }
+	#logo img {  }
+	nav {  }
+	nav li {  }
+	nav li a {  }
+	nav li a:hover {  }
+	input.search {  }
+
+section {  }	
+	.container {  }
+	.container img {  }
+	h1 {  }
+	p {  }
+
+footer {  }
+	footer nav {  }
+	footer nav li a {  }
+	footer nav li a:hover {  }
+	
+.floatleft { float: left; }
+.floatright { float: right; }
+.clear { clear: both; }	
